@@ -4,7 +4,7 @@ import pydeck as pdk
 
 # Page configuration
 st.set_page_config(
-    page_title="Map Streamlit App",
+    page_title="THI Map Demo",
     page_icon="🗺️",
     layout="wide",
     initial_sidebar_state="expanded"
